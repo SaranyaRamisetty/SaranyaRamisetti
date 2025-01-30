@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saranya Ramisetti</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saranyaramisetty" alt="saranyaramisetty" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/saranya_ssr" target="blank"><img src="https://img.shields.io/twitter/follow/saranya_ssr?logo=twitter&style=for-the-badge" alt="saranya_ssr" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/SaranyaRamisetty](https://github.com/SaranyaRamisetty)
 
 <h3 align="left">Connect with me:</h3>
