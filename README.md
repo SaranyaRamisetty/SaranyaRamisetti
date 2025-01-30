@@ -1,7 +1,19 @@
 <h1 align="center">Hi 👋, I'm Saranya Ramisetti</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+- 🔭 I’m currently working on **Angular Projects**
+
+- 🌱 I’m currently learning **Cloud Technologies**
+
+- 👯 I’m looking to collaborate on **Angular development Projects**
+
+- 🤝 I’m looking for **help with Angular**
+
 - 👨‍💻 All of my projects are available at [https://github.com/SaranyaRamisetty](https://github.com/SaranyaRamisetty)
+
+- 💬 Ask me about **Angular Reactjs**
+
+- 📫 How to reach me **Saranya.ramisetty@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
